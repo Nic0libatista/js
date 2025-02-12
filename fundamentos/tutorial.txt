@@ -38,3 +38,12 @@ NODE - Plataforma que permite executar o JS fora do navegador de internet
 COMANDOS NODE
     node -v (Versão do node)
     node arquivo.js (executar o arquivo JavaScript)
+
+_______________________________________________________________________________________________
+
+passo 1: acesse a documentação do framework:
+https://getbootstrap.com/docs/5.3/getting-started/introduction/
+
+passo 2: criar os links para css e js, conforme as orientações da documentação
+
+passo 3: criar inicialmente uma classe chamada container
